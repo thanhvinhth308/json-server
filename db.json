@@ -1,0 +1,134 @@
+{
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Olympics: Tokyo 2020 chief does not rule out cancelling Games",
+            "description": "The global sporting event is due to start on Friday but more athletes have tested positive for Covid.",
+            "url": "http://www.bbc.co.uk/news/world-asia-57911122",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B392/production/_119507954_gettyimages-1302768103.jpg",
+            "publishedAt": "2021-07-21T03:37:26.9341225Z",
+            "content": "image copyrightGetty Images\r\nimage captionToshiro Muto said he would keep an eye on infection numbers\r\nThe head of the Tokyo 2020 organising committee has not ruled out a cancellation of the Olympic … [+2051 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "The battle for Indonesia's Gold Island",
+            "description": "There are fears that a mine will threaten Sangihe island's ancient forests and local water supply.",
+            "url": "http://www.bbc.co.uk/news/world-asia-57902815",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5866/production/_119503622_p09py73c.jpg",
+            "publishedAt": "2021-07-21T03:37:23.8567637Z",
+            "content": "A Canadian-listed mining company has been granted a concession over more than half of an Indonesian island. \r\nEnvironmentalists say the gold mine threatens Sangihe island's ancient forests, which are… [+389 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: Anger as half of Australians in lockdown again",
+            "description": "Three states enforce stay-at-home orders, fuelling criticism of Australia's slow vaccination rate.",
+            "url": "http://www.bbc.co.uk/news/world-australia-57911032",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C2CE/production/_119507894_e1e63ada-d3d5-4e31-9c79-4b0be76128ec.jpg",
+            "publishedAt": "2021-07-21T03:37:19.8108951Z",
+            "content": "image captionSydneysiders can leave home for exercise and other essential reasons\r\nMore than 13 million Australians - about half the population - are in lockdown after a third state imposed restricti… [+2003 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "UK and France agree deal to tackle rise in Channel crossings",
+            "description": "France will double the number of police patrolling beaches, as record numbers cross the Channel.",
+            "url": "http://www.bbc.co.uk/news/uk-57909188",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9D2F/production/_119493204_hi068684145.jpg",
+            "publishedAt": "2021-07-21T01:52:26.3983386Z",
+            "content": "media captionThe BBC's Jon Donnison spoke to some of the migrants trying to make the dangerous journey\r\nFrance will double the number of police patrolling its beaches as part of a deal with the UK to… [+3447 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Nigeria secures release of 100 kidnapped mothers and children",
+            "description": "The group, most of them women and children, were kidnapped last month in Nigeria's Zamfara state.",
+            "url": "http://www.bbc.co.uk/news/world-africa-57910833",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/80CA/production/_119507923_045100456.jpg",
+            "publishedAt": "2021-07-21T01:52:23.3053583Z",
+            "content": "The authorities in north-west Nigeria say they have freed of 100 women and children - mainly mothers nursing infants - who were seized by bandits.\r\nThe group were abducted on 8 June in Zamfara state.… [+1336 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: France rolls out health pass as cases soar",
+            "description": "From Wednesday people will need proof of vaccination or a negative test to access some public places.",
+            "url": "http://www.bbc.co.uk/news/world-europe-57907678",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/762A/production/_119505203_tv068651594.jpg",
+            "publishedAt": "2021-07-21T01:07:20.3316278Z",
+            "content": "image captionPlans for a Covid health pass have proved controversial\r\nA new Covid health pass has come into effect in France amid a surge of new infections.\r\nFrom Wednesday, people need proof of vacc… [+2073 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Strife-torn Haiti gets new prime minister",
+            "description": "Ariel Henry's appointment comes nearly two weeks after President Jovenel Moïse was assassinated.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-57910829",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/ED62/production/_119507706_gettyimages-1329770491.jpg",
+            "publishedAt": "2021-07-21T00:52:18.2465574Z",
+            "content": "image copyrightGetty Images\r\nimage captionAriel Henry called for unity during a swearing-in ceremony in Port-au-Prince\r\nAriel Henry has been sworn in as Haiti's new prime minister, nearly two weeks a… [+2447 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Brady cracks election results joke at White House",
+            "description": "The star quarterback shared a laugh with President Biden and said people \"don't think we won\" either.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-57910869",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6FFE/production/_119507682_p09pz8xx.jpg",
+            "publishedAt": "2021-07-20T23:07:21.6535291Z",
+            "content": "Brady cracks election results joke at White House. Video, 00:00:38Brady cracks election results joke at White House"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Thomas Barrack: Top Trump aide accused of working as foreign agent",
+            "description": "Thomas Barrack is alleged to have lobbied the US government on behalf of the United Arab Emirates.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-57909836",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16AB2/production/_119505829_gettyimages-578544824.jpg",
+            "publishedAt": "2021-07-20T22:52:22.8363909Z",
+            "content": "image copyrightGetty Images\r\nimage captionThomas Barrack speaking at the Republican National Convention in 2016\r\nBillionaire and long-time Donald Trump ally Thomas J Barrack has been arrested in Los … [+3240 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "China floods: Thousands evacuated as rail stations and roads submerged",
+            "description": "Record rainfall leaves subway stations and roads submerged, and more than a dozen cities affected.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-57861067",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3B88/production/_119504251_e7e4e508-dad4-4385-abbd-f6c06d0bc66b.jpg",
+            "publishedAt": "2021-07-20T20:07:21.0192736Z",
+            "content": "media captionRoads and subway stations are submerged across China's Henan province\r\nTorrential rain has caused severe flooding in parts of central China, leaving train stations and roads submerged.\r\n… [+2138 chars]"
+        }
+    ]
+}
