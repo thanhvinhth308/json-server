@@ -129,6 +129,396 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3B88/production/_119504251_e7e4e508-dad4-4385-abbd-f6c06d0bc66b.jpg",
             "publishedAt": "2021-07-20T20:07:21.0192736Z",
             "content": "media captionRoads and subway stations are submerged across China's Henan province\r\nTorrential rain has caused severe flooding in parts of central China, leaving train stations and roads submerged.\r\n… [+2138 chars]"
-        }
+        },
+         {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Matt Simon",
+        "title": "How Underground Fiber Optics Spy on Humans Moving Above",
+        "description": "Vibrations from cars and pedestrians create unique signals in cables. Now scientists have used the trick to show how Covid-19 brought life to a halt.",
+        "url": "https://www.wired.com/story/how-underground-fiber-optics-spy-on-humans-moving-above/",
+        "urlToImage": "https://media.wired.com/photos/60d5f9a6a069f13cc7c034c4/191:100/w_1280,c_limit/science_fiberoptic_541379892.jpg",
+        "publishedAt": "2021-06-28T16:00:00Z",
+        "content": "When last springs lockdown quieted the Penn State campus and surrounding town of State College, a jury-rigged instrument was listening. A team of researchers from the university had tapped into an un… [+3564 chars]"
+    },
+    {
+        "source": {
+            "id": "wired",
+            "name": "Wired"
+        },
+        "author": "Adam Rogers",
+        "title": "The Olympics Could Be a Covid-19 ‘Super-Evolutionary Event’",
+        "description": "In a warped version of international cooperation, the Games could provide a place for variants of the virus to spread and then return home with athletes.",
+        "url": "https://www.wired.com/story/tokyo-olympics-covid-delta-variant/",
+        "urlToImage": "https://media.wired.com/photos/60f9dcc99c7cd5dcccd9ee20/191:100/w_1280,c_limit/olympics-covid.jpg",
+        "publishedAt": "2021-07-22T21:06:57Z",
+        "content": "As for the Olympic-bound folks already testing positive, McCloskey said that didnt constitute a failure in the system. Quite the oppositeeach one represented the cutting-off of a more infectious time… [+4525 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Makena Kelly",
+        "title": "Surgeon general calls out platforms over COVID-19 misinformation",
+        "description": "The report calls for an all of society push to address vaccine and coronavirus misinformation, including sweeping policy recommendations for companies like Facebook, Twitter, and YouTube. Surgeon General Vivek Murthy specifically calls on companies to redesig…",
+        "url": "https://www.theverge.com/2021/7/15/22578431/white-house-surgeon-general-facebook-youtube-twitter-covid-19-misinformation-vaccines",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/ZGW4BoHoc5rQbmxZcZ9dsNqnDnI=/0x399:5568x3314/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22719017/1231376251.jpg",
+        "publishedAt": "2021-07-15T14:40:14Z",
+        "content": "Hes suggesting changes to algorithms\r\nPhoto by Caroline Brehman-Pool / Getty Images\r\nOn Thursday, the surgeon general published a new report calling on social media platforms to make new investments … [+2296 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Sarah Perez",
+        "title": "Amazon is now selling its own Covid-19 test kits for $39.99 in the U.S.",
+        "description": "Amazon announced this morning it would begin to sell its own brand of Covid-19 at-home tests to Amazon shoppers in the U.S. The test retails for $39.99 on the Amazon.com website and is available to any U.S. customer without a prescription. The Covid-19 PCR co…",
+        "url": "http://techcrunch.com/2021/07/06/amazon-is-now-selling-its-own-covid-19-test-kits-for-39-99-in-the-u-s/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/amazon-covid-test-kit.png?w=660",
+        "publishedAt": "2021-07-06T15:39:55Z",
+        "content": "Amazon announced this morning it would begin to sell its own brand of Covid-19 at-home tests to Amazon shoppers in the U.S. The test retails for $39.99 on the Amazon.com website and is available to a… [+2445 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Natasha Lomas",
+        "title": "The EU’s COVID-19 ‘digital certificates’ are up and running",
+        "description": "A regulation underpinning a digital certification system for individuals in the European Union to verify their COVID-19 status via a common credential has gone into application today — on schedule. From today, almost all EU Member States are now able to issue…",
+        "url": "http://techcrunch.com/2021/07/01/the-eus-covid-19-digital-certificates-are-up-and-running/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/P051292-970000.jpg?w=601",
+        "publishedAt": "2021-07-01T15:03:43Z",
+        "content": "A regulation underpinning a digital certification system for individuals in the European Union to verify their COVID-19 status via a common credential has gone into application today — on schedule.\r\n… [+2167 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Lifehacker.com"
+        },
+        "author": "Lindsey Ellefson",
+        "title": "How to Start Dating Again If You're Unvaccinated",
+        "description": "The post-vax slutty summer is happening all around us, but some participants aren’t actually post-vax. The vaccine has been free and widely available for months now, but about half the population still isn’t vaccinated against COVID-19. A portion of those unv…",
+        "url": "https://lifehacker.com/how-to-start-dating-again-if-youre-unvaccinated-1847343349",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/38a33c58cc213f580a30a2be640d3330.jpg",
+        "publishedAt": "2021-07-23T14:30:00Z",
+        "content": "The post-vax slutty summer is happening all around us, but some participants arent actually post-vax. The vaccine has been free and widely available for months now, but about half the population stil… [+4793 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Nicole Wetsman",
+        "title": "EU officially launches digital vaccine passport",
+        "description": "The European Union has a pass that can show proof of vaccination, negative COVID-19 test, or recent infection. It can be used to aid travel between EU countries.",
+        "url": "https://www.theverge.com/2021/7/1/22558896/eu-covid-vaccine-passport-test-infection",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/zlbXMrxE1YLXVe45vPXjRYAomQo=/0x47:724x426/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22693356/Screen_Shot_2021_07_01_at_9.49.57_AM.png",
+        "publishedAt": "2021-07-01T14:06:06Z",
+        "content": "It shows proof of vaccination, negative test result, or past infection\r\nThe European Unions digital COVID-19 certificate officially launched today. The certificate allows people to show proof of COVI… [+1672 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Jonathan Wolfe",
+        "title": "Coronavirus Briefing: What Happened Today",
+        "description": "Survivors of Covid-19 are pushing for change.",
+        "url": "https://www.nytimes.com/2021/07/20/us/coronavirus-today.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/07/20/multimedia/20coronavirus-nl/20coronavirus-nl-facebookJumbo.png",
+        "publishedAt": "2021-07-21T01:17:05Z",
+        "content": "Whats the virus situation, and in particular, the situation with the Delta variant?\r\nWell, Canada is not seeing what Britain is seeing but the Delta variant is certainly here now. Generally speaking,… [+1209 chars]"
+    },
+         {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ed Cara",
+        "title": "FitBit Data Points to Lingering Physical Changes for Some Covid-19 Sufferers",
+        "description": "New research out today is the latest to indicate that people who catch covid-19 can experience lingering effects after recovering. The study, based on FitBit data collected from hundreds of users, found that it took around two to three months for the elevated…",
+        "url": "https://gizmodo.com/fitbit-data-points-to-lingering-physical-changes-for-so-1847247248",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/13a90642edbb517b8540e10c6c0930e7.jpg",
+        "publishedAt": "2021-07-07T21:20:00Z",
+        "content": "New research out today is the latest to indicate that people who catch covid-19 can experience lingering effects after recovering. The study, based on FitBit data collected from hundreds of users, fo… [+4256 chars]"
+    },
+    {
+        "source": {
+            "id": "cnn",
+            "name": "CNN"
+        },
+        "author": "Jen Christensen, CNN",
+        "title": "Some seeking out a second dose after getting J&J vaccine",
+        "description": "Jason Gallagher, an infectious disease pharmacist in Philadelphia had gotten the Johnson & Johnson Covid-19 vaccine through a clinical trial in November, but this summer he didn't like the direction Covid-19 cases were taking due to variants.",
+        "url": "https://www.cnn.com/2021/07/26/health/covid-19-vaccine-should-you-get-additional-dose/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210712181912-jj-vaccine-super-tease.jpg",
+        "publishedAt": "2021-07-27T00:54:33Z",
+        "content": "(CNN)Jason Gallagher, an infectious disease pharmacist in Philadelphia had gotten the Johnson &amp; Johnson Covid-19 vaccine through a clinical trial in November, but this summer he didn't like the d… [+5530 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Alyson Krueger",
+        "title": "Would You Get a ‘Pandemic Tattoo’?",
+        "description": "While many people are eager to put the ravages of Covid-19 behind them, some prefer to be reminded forever.",
+        "url": "https://www.nytimes.com/2021/07/10/style/would-you-get-a-pandemic-tattoo.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/07/11/fashion/10PANDEMIC-TATTOOS-1/10PANDEMIC-TATTOOS-1-facebookJumbo.jpg",
+        "publishedAt": "2021-07-10T17:19:36Z",
+        "content": "Mr. Valena said 90 percent of his clients come to him for their first tattoo, and in the aftermath of the pandemic, hes seen a surge in requests for Covid-related designs.\r\nWhen these clients come in… [+1380 chars]"
+    },
+    {
+        "source": {
+            "id": "the-verge",
+            "name": "The Verge"
+        },
+        "author": "Mitchell Clark",
+        "title": "Google is building support for digital COVID vaccine cards into Android",
+        "description": "Google is adding the ability for users to store digital vaccine cards or test results using its passes system. The digital cards will have to be provided by healthcare providers or local governments and are coming to the US first.",
+        "url": "https://www.theverge.com/2021/6/30/22558245/google-pay-covid-vaccination-card-android-digital-pass",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/b62MPtS1DwnwZNGcbu6zpXjtRRc=/0x141:1600x979/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22692626/_GD_BLOG__Covid_cards_1.png",
+        "publishedAt": "2021-07-01T00:30:00Z",
+        "content": "Support will be dependent on vaccine providers\r\nA digital COVID vaccine card in Android.\r\nImage: Google\r\nGoogle is opening up Androids built-in passes system to let Android users store a digital vacc… [+1422 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Tom McKay",
+        "title": "The Worst Charlatans of the Covid-19 Pandemic",
+        "description": "For some people, crisis is an opportunity. More specifically, an opportunity to blow up their own profile by preying on people’s fears, making baseless claims, grabbing resources intended for others, and being generally dishonest, disingenuous, or greedy.Read…",
+        "url": "https://gizmodo.com/the-worst-charlatans-of-the-covid-19-pandemic-1847217752",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/9ebc922fc7a3bff49f894dbbb5551d85.jpg",
+        "publishedAt": "2021-07-09T13:00:00Z",
+        "content": "For decades, the Kennedy family was one of the most powerful political dynasties in the country, the most famous of which need no introduction: President John F. Kennedy, his brothers Attorney Genera… [+4630 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Trish Bendix",
+        "title": "Stephen Colbert Agrees With Mitch McConnell",
+        "description": "Colbert applauded the Senate minority leader for finally encouraging Americans to get vaccinated against Covid-19.",
+        "url": "https://www.nytimes.com/2021/07/22/arts/television/stephen-colbert-mitch-mcconnell-vaccine.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/07/22/arts/22latenight/22latenight-facebookJumbo.png",
+        "publishedAt": "2021-07-22T05:58:17Z",
+        "content": "Representative Steve Scalise, Republican of Louisiana, also encouraged skeptics to get the shots after receiving his first dose this week, saying, Ive been vaccinated, many of my colleagues have been… [+1076 chars]"
+    },
+        {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Catherine Shu",
+        "title": "Greywing launches Crew Change to help shipping companies navigate COVID-19 regulations",
+        "description": "For fleet managers, managing shipping crew changes across different countries is an elaborate process even in the best of times—and now is definitely not the best of times. Greywing, a Y Combinator-backed platform for automating maritime operations, launched …",
+        "url": "http://techcrunch.com/2021/07/27/greywing-launches-crew-change-to-help-shipping-companies-navigate-covid-19-regulations/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-862331028.jpg?w=533",
+        "publishedAt": "2021-07-28T01:00:18Z",
+        "content": "For fleet managers, managing shipping crew changes across different countries is an elaborate process even in the best of timesand now is definitely not the best of times. Greywing, a Y Combinator-ba… [+3522 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Marisa Ingemi",
+        "title": "Just by Playing, These Goalies Made Crucial Saves",
+        "description": "Covid-19 protocols sometimes left teams without a traditional goaltender, meaning another player had to put on a lacrosse helmet or soccer gloves to keep the games going.",
+        "url": "https://www.nytimes.com/2021/07/14/sports/just-by-playing-these-goalies-made-crucial-saves.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/07/12/sports/00goalies/00goalies-facebookJumbo.jpg",
+        "publishedAt": "2021-07-14T09:00:24Z",
+        "content": "Thats what happened when the mens lacrosse team at Southwestern University, a Division III school in Texas, faced four games without anyone with goalie experience because all of their goalie options … [+1202 chars]"
+    },
+        {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Mike Butcher",
+        "title": "Patchwork Health raises £3.5M to fix the staff scheduling disaster inside stressed hospitals",
+        "description": "The tyranny of the Excel spreadsheet continues, and especially in rostering staff. Nowhere is this more acutely felt in today’s COVID-pressured hospital wards, which are now depleted not just by the disease but by staff burnout from patchy-over or under-sched…",
+        "url": "http://techcrunch.com/2021/07/28/patchwork-health-raises-3-5m-to-fix-the-staff-scheduling-disaster-inside-stressed-hospitals/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/Patchwork-Health.jpg?w=607",
+        "publishedAt": "2021-07-28T08:00:25Z",
+        "content": "The tyranny of the Excel spreadsheet continues, and especially in rostering staff. Nowhere is this more acutely felt in todays COVID-pressured hospital wards, which are now depleted not just by the d… [+1813 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Emma Betuel",
+        "title": "Biosafety startup R-Zero acquires CoWorkr to create an “OS for the workplace”",
+        "description": "On Tuesday, R-Zero, a pandemic-era biosafety company, announced the acquisition of CoWorkr – a company that develops room occupancy sensors. The acquisition marks a shift in focus for R-Zero as people return to work, vaccines are rolled out, and companies tha…",
+        "url": "http://techcrunch.com/2021/07/20/biosafety-startup-r-zero-acquires-coworkr-to-create-an-os-for-the-workplace/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/R-Zero-Arc_Atelier-Crenn_ON.jpg?w=538",
+        "publishedAt": "2021-07-20T21:12:42Z",
+        "content": "On Tuesday, R-Zero, a pandemic-era biosafety company, announced the acquisition of CoWorkr a company that develops room occupancy sensors. The acquisition marks a shift in focus for R-Zero as people … [+6195 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Ingrid Lunden",
+        "title": "ShipBob nabs $200M at a $1B+ valuation to help e-commerce companies run logistics like Amazon’s",
+        "description": "E-commerce saw a massive surge of activity and growth in 2020; and while we may hear a lot about how big companies like Amazon got even bigger during the Covid-19 pandemic, that rising tide also lifted a lot of smaller boats. And that, in turn, has had a big …",
+        "url": "http://techcrunch.com/2021/06/29/shipbob-nabs-200m-at-a-1b-valuation-to-help-e-commerce-companies-run-logistics-like-amazons/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1191254826.jpg?w=600",
+        "publishedAt": "2021-06-29T09:00:18Z",
+        "content": "E-commerce saw a massive surge of activity and growth in 2020; and while we may hear a lot about how big companies like Amazon got even bigger during the Covid-19 pandemic, that rising tide also lift… [+6639 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Darrell Etherington",
+        "title": "How one founder pivoted a startup designed for in-person interaction in light of the pandemic",
+        "description": "When Ashley Sumner designed and launched Quilt, it was meant to be a response to digital social networking, preferring creating authentic in-person interactions between people who didn’t necessarily know each other before. The app would match members for in-p…",
+        "url": "http://techcrunch.com/2021/07/19/how-one-founder-pivoted-a-startup-designed-for-in-person-interaction-in-light-of-the-pandemic/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/07/found-featured-image-ashley-sumner.jpg?w=711",
+        "publishedAt": "2021-07-19T11:35:14Z",
+        "content": "When Ashley Sumner designed and launched Quilt, it was meant to be a response to digital social networking, preferring creating authentic in-person interactions between people who didn’t necessarily … [+1376 chars]"
+    },
+    {
+        "source": {
+            "id": "techcrunch",
+            "name": "TechCrunch"
+        },
+        "author": "Ingrid Lunden",
+        "title": "Go1 raises $200M at a $1B+ valuation to boost its curated enterprise learning platform",
+        "description": "Online learning continues to see a huge boost of attention and use in the wake of the Covid-19 pandemic, and today a startup building tools specifically for enterprises to deliver on their internal education remits is announcing a big round of funding that po…",
+        "url": "http://techcrunch.com/2021/07/19/go1-raises-200m-at-a-1b-valuation-to-boost-its-curated-enterprise-learning-platform/",
+        "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/11/800x418.jpg?w=760",
+        "publishedAt": "2021-07-19T12:43:05Z",
+        "content": "Online learning continues to see a huge boost of attention and use in the wake of the Covid-19 pandemic, and today a startup building tools specifically for enterprises to deliver on their internal e… [+7598 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "25 Countries With the Best Covid-19 Vaccination Rates in the World",
+        "description": "The world’s covid-19 vaccination rate stands at just 13.4%, a stubbornly low number that needs to improve before we can declare the coronavirus pandemic behind us. But some countries have done exceedingly well at getting their populations protected.Read more.…",
+        "url": "https://gizmodo.com/25-countries-with-the-best-covid-19-vaccination-rates-i-1847348351",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/20641eb76a0a4185cead427f36ae4a85.jpg",
+        "publishedAt": "2021-07-23T11:00:00Z",
+        "content": "The worlds covid-19 vaccination rate stands at just 13.4%, a stubbornly low number that needs to improve before we can declare the coronavirus pandemic behind us. But some countries have done exceedi… [+2965 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "UK to Drop Covid-19 Quarantine Rules for Vaccinated Tourists From U.S. and EU",
+        "description": "The United Kingdom is preparing to drop covid-19 restrictions that require visitors from the U.S. and European Union to quarantine for 10 days on arrival, according to several newspapers in England. Read more...",
+        "url": "https://gizmodo.com/uk-to-drop-covid-19-quarantine-rules-for-vaccinated-tou-1847375988",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/73ae4d18e6758ccd8f4bfc7f09503b87.jpg",
+        "publishedAt": "2021-07-28T10:30:00Z",
+        "content": "The United Kingdom is preparing to drop covid-19 restrictions that require visitors from the U.S. and European Union to quarantine for 10 days on arrival, according to several newspapers in England. … [+2826 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Chris Hamby",
+        "title": "Emergent BioSolutions Faces Investor Revolt Over Botched Vaccines",
+        "description": "In the latest shareholder lawsuit, a pension fund accused executives at Emergent BioSolutions of insider trading. The company, under investigation by Congress, has halted manufacturing of Covid-19 vaccines at its Baltimore factory at regulators’ request.",
+        "url": "https://www.nytimes.com/2021/07/06/us/emergent-biosolutions-vaccines-investors.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/07/02/multimedia/00emergent-shareholders/00emergent-shareholders-facebookJumbo.jpg",
+        "publishedAt": "2021-07-06T07:00:11Z",
+        "content": "The rosy picture painted by Emergent executives before the contamination was publicly known as reported by The Times on March 31 was a deception, the shareholder suits assert.\r\nA series of audits con… [+1691 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Zara Stone",
+        "title": "The Pandemic Rush on Prison Weddings",
+        "description": "With Covid-19 restrictions lifted, many inmates who had to postpone their weddings last year are hoping to finally tie the knot. However, the increased demand could mean a longer wait.",
+        "url": "https://www.nytimes.com/2021/07/21/style/the-pandemic-rush-on-prison-weddings.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/07/25/fashion/21prison-wedding-rush/21prison-wedding-rush-facebookJumbo.jpg",
+        "publishedAt": "2021-07-23T15:53:22Z",
+        "content": "Wedding officiants, for the public and for prisoners, say their calendars are packed and that couples need to plan a date six months or more out. Were going to do twice as much business, or more, in … [+2558 chars]"
+    },
+        {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Matt Novak",
+        "title": "Kim Jong Un Warns of 'Great Crisis' in North Korea During Cryptic Speech About Covid-19",
+        "description": "North Korean dictator Kim Jong Un said his country was facing a “great crisis” thanks to the “incapable and irresponsible work attitude” of his underlings, during a recent speech about the covid-19 pandemic, portions of which were published on Wednesday.Read …",
+        "url": "https://gizmodo.com/kim-jong-un-warns-of-great-crisis-in-north-korea-during-1847200100",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/1a34651fd3ec54a739ec523ce6eef195.jpg",
+        "publishedAt": "2021-06-30T10:00:00Z",
+        "content": "North Korean dictator Kim Jong Un said his country was facing a great crisis thanks to the incapable and irresponsible work attitude of his underlings, during a recent speech about the covid-19 pande… [+2918 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Ed Cara",
+        "title": "U.S. Life Expectancy Has Biggest Fall Since WWII Amid Covid-19 and Drug Overdoses",
+        "description": "As expected, the first year of the covid-19 pandemic has lowered the collective life expectancy of Americans. Researchers from the Centers for Disease Control and Prevention reported this week that life expectancy at birth dropped 1.5 years from 2019 to 2020,…",
+        "url": "https://gizmodo.com/u-s-life-expectancy-has-biggest-fall-since-wwii-amid-c-1847334892",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/6c59ed124cac4605a080a0f2b4853cef.jpg",
+        "publishedAt": "2021-07-21T15:10:00Z",
+        "content": "As expected, the first year of the covid-19 pandemic has lowered the collective life expectancy of Americans. Researchers from the Centers for Disease Control and Prevention reported this week that l… [+3702 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "Gizmodo.com"
+        },
+        "author": "Sam Rutherford",
+        "title": "Google Is Adding Support for Digital Covid-19 Vax Cards Into Android",
+        "description": "With hot vax summer already in full swing, Google is now making it easier to keep your vax card handy by building support for digital vaccination cards into Android itself. Read more...",
+        "url": "https://gizmodo.com/google-is-adding-support-for-digital-covid-19-vax-cards-1847211759",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cfd2b7d910df2db22370246b9eba5614.jpg",
+        "publishedAt": "2021-07-01T16:40:00Z",
+        "content": "With hot vax summer already in full swing, Google is now making it easier to keep your vax card handy by building support for digital vaccination cards into Android itself. \r\nIn a recent post on the … [+2093 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "Patrick McGeehan",
+        "title": "They Risked Their Lives During Covid. They Still Don’t Earn Minimum Wage.",
+        "description": "Surveys of food deliverers and others who work for app-based services illustrate the hazards they have faced during the pandemic.",
+        "url": "https://www.nytimes.com/2021/07/15/nyregion/nyc-gig-workers-pay.html",
+        "urlToImage": "https://static01.nyt.com/images/2021/07/12/nyregion/00nygigworkers01/00nygigworkers01-facebookJumbo.jpg",
+        "publishedAt": "2021-07-15T18:42:41Z",
+        "content": "Food and housing insecurity are bigger problems for gig workers, Ms. Chatterjee said, citing findings of the survey, which was part of an annual report issued by the Community Service Society. This y… [+1751 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "New York Times"
+        },
+        "author": "The New York Times",
+        "title": "The Delta variant accounts for nearly all Covid hospitalizations in a Missouri hot spot.",
+        "description": "The guidance acknowledges that many students have suffered from months of virtual learning.",
+        "url": "https://www.nytimes.com/live/2021/07/10/world/covid-19-coronavirus-updates",
+        "urlToImage": "https://static01.nyt.com/images/2021/07/10/us/10virus-briefing-promo1/10virus-briefing-promo1-facebookJumbo.jpg",
+        "publishedAt": "2021-07-10T14:09:05Z",
+        "content": "The crush of new Covid patients this week at Mercy Hospital in Springfield, Mo., was unlike anything the staff had seen during the past 16 months. Officials resorted to borrowing ventilators from oth… [+4026 chars]"
+    }
     ]
 }
